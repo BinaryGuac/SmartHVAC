@@ -1,20 +1,21 @@
 # SmartHVAC
+
 Demo of a connected vehicle Air Conditionning
 
 ---
-# System Architecture
+## System Architecture
 
-![Alt](Smarthvac)
+![Alt](Smarthvac.png)
 
 ## Components
 
-## MQTT Server
+### MQTT Server
 [HiveMQ](https://www.hivemq.com/)
 
-## HVAC+Pycom
+### HVAC+Pycom
 [Pycom Module](https://docs.pycom.io/datasheets/development/wipy3/)
 
-## Front End
+### Front End
 
 **Features**
 -HVAC control
@@ -25,7 +26,7 @@ Demo of a connected vehicle Air Conditionning
 
 ---
 
-### **Changes**
+## **Changes**
 | Date | Version | Description |
 |:------------|:----------------:|--------------------------------------|
 | **2025-05-15** | `Version 1.0` | `Final Release fully operational` :tada: |
